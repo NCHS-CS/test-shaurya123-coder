@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "test-shaurya123-coder_9ec0ba12"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
